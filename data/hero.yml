@@ -1,0 +1,16 @@
+---
+enable: true
+topTitle: 
+content: >
+  ## Low-code automation for SREs, SWEs, & DevOps Engineers. 
+
+  Picture a **low code platform** that **links existing monitoring tools** 
+  with *community* **troubleshooting/remediation code**.  It dramatically 
+  speeds up onboarding of new colleagues and popular vendor/OSS 
+  components.
+
+buttonName: Beta Signup
+buttonURL: beta
+image: images/hero/map.png
+videoThumb: images/hero/popup-thumb.png
+videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
